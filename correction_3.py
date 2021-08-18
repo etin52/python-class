@@ -11,7 +11,7 @@ print(average)
 # Write a program that takes a sentence from the user and change the first word to upper case.
 
 string="never judge a book by its cover"
-print(string.title)
+print(string.title())
 
 # Write a program with the sentence I am learning python. When your program is run, the string I should be changed to you
 
