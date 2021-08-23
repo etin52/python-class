@@ -23,7 +23,7 @@
 
 # 1. wrtie a program that get input from a user and convert it to 
 # upper case
-                    # i.
+#                     # i.
 # string=input("convert to upper case\n")
 # print(string.upper())
 
@@ -37,16 +37,13 @@
 # print(string.split(" "))
 
 
-                # iv.
+#                 # iv.
 string1=float(input("input number one\n"))
 string2=float(input("input number two\n"))
 string3=float(input("input number three\n"))
 
 average=(string1+string2+string3)/3
 print(average)
-
-
-
 
 
 
